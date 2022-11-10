@@ -1,6 +1,7 @@
 # ExMachinaProtobuf
 
-**TODO: Add description**
+[ExMachina](https://github.com/thoughtbot/ex_machina) strategy for creating
+Protobuf factories in a safer way.
 
 ## Installation
 
